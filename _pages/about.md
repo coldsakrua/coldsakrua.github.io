@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Person Introduction"
+title: "Personal Introduction"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
-I'm a forth ungraudated student from School of Electronic Engine and Computer Science(EECS), Peking University(PKU). My Research interest includes Spike Camera, Computation photography and Large Language Model.  
+I am a fourth-year undergraduate student at the School of Electronic Engineering and Computer Science (EECS), Peking University (PKU). My research interests include spike cameras, computational photography, and large language models.
 
-I will study for a master's degree in the School of Software & Microeletronics, Peking University, under the guidance of associate researcher [Lei Ma](https://nbic.pku.edu.cn/rcdw/kyry/02c5f5ce8e254b1e82a48bebd0a24c33.htm) from 2025 fall.  
+I will pursue a master's degree at the School of Software & Microeletronics, Peking University, under the guidance of associate researcher [Lei Ma](https://nbic.pku.edu.cn/rcdw/kyry/02c5f5ce8e254b1e82a48bebd0a24c33.htm) from 2025 fall.  
 
 You can contact with me by e-mail: ly0376@stu.pku.edu.cn  
 
