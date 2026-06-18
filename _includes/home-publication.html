@@ -1,0 +1,18 @@
+{% include base_path %}
+
+<div class="home-pub">
+  <h3 class="home-pub__title">
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">{{ post.title }}</a>
+    {% else %}
+      {{ post.title }}
+    {% endif %}
+  </h3>
+  <p class="home-pub__meta"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+  {% if post.excerpt %}
+    <p class="home-pub__excerpt">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+  {% endif %}
+  {% if post.paperurl %}
+    <p class="home-pub__link"><a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">[Paper]</a></p>
+  {% endif %}
+</div>

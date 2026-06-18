@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yang Li"
 title_separator          : "-"
 name                     : &name "Yang Li"
-description              : &description "personal description"
+description              : &description "First-year graduate student at Peking University · LLM Self-Distillation · RL"
 url                      : https://coldsakrua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/coldsakrua"
@@ -21,11 +21,11 @@ repository               : "https://github.com/coldsakrua"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ly.png"
-  name             : "Yang Li(李阳)"
+  avatar           : "ly1.jpg"
+  name             : "Yang Li (李阳)"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
-  location         : "Beijing China"
+  bio              : "Graduate student @ PKU · LLM Self-Distillation · RL"
+  location         : "Beijing, China"
   employer         : "Peking University"
   uri              : # URL 
   email            : "ly0376@stu.pku.edu.cn" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/coldsakrua"
+  github           : "coldsakrua"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
