@@ -8,6 +8,9 @@
       {{ post.title }}
     {% endif %}
   </h3>
+  {% if post.authors %}
+    <p class="home-pub__authors">{{ post.authors }}</p>
+  {% endif %}
   <p class="home-pub__meta"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
   {% if post.excerpt %}
     <p class="home-pub__excerpt">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
